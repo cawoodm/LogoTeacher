@@ -18,4 +18,6 @@ No REPEAT statement or variables are supported (yet).
 ## Technical Details
 * Uses the canto.js library to manipulate the canvas
 * Uses jQuery 1.8 to manipulate the DOM
-* Uses Twitter's bootstrap.css to look good
+* Uses Twitter's bootstrap.css to look good...
+
+fin
