@@ -5,8 +5,8 @@ A Simple Logo Programming Teacher
 
 If you learned to program in Logo like me you'll like this simulated Logo environment written in HTML5 and JavaScript using the HTML5 Canvas.
 
-##Demo
-https://googledrive.com/host/0BzSnEvuWFbcmeER3blZjalZQWWs/index.html
+## Demo
+https://cawoodm.github.io/logo/
 
 ## Abilities
 * Basic movement with FW BK RT and LT
